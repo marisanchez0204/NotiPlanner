@@ -1,0 +1,2 @@
+# NotiPlanner
+Proyecto Dispositivos Moviles 
