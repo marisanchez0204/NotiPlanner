@@ -12,4 +12,8 @@ public class Actividad01 extends AppCompatActivity {
     }
 
     //nojodas
+
+    public int noJodas(){
+        return 0;
+    }
 }
